@@ -1,5 +1,7 @@
 # Printable synthetic biology lab
 
+[![Join the chat at https://gitter.im/Treblesteph/printable_synbiolab](https://badges.gitter.im/Treblesteph/printable_synbiolab.svg)](https://gitter.im/Treblesteph/printable_synbiolab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *Reviewing the existing tools for 3d printing lab equipment and using this knowledge to create a well-documented synthetic biology lab.*
 
 Hello and welcome to our project. We are just starting out and will be fleshing out the documentation very soon. In the meantime, please get in touch if you'd like to join us!
