@@ -27,3 +27,11 @@ By following these objectives we want to produce a complete printable lab with a
 - deploy the lab to research groups who are in need of equipment
   - print the parts
   - hold workshops and/or tutorials to make the equipment together
+
+  
+## feasibility
+  - what bits of equipment would be needed
+    - how many of these exist?
+    - are they easy to make?
+  - what parts are available in which countries?
+    - how to translate a BOM between countries?
