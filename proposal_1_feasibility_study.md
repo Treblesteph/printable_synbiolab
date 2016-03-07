@@ -95,3 +95,10 @@ The collaboration between Cambridge and Norwich in this project is an expansion 
 > Name, institution, department and email address of the individual who will support the project and sponsor the cost-code to which you want funds to be allocated. This would generally be a research supervisor
 
 Matt Clark <matt.clark@tgac.ac.uk>, Plant and Microbial Genomics group, The Genome Analysis Centre, Norwich.
+
+
+## Budget
+
+- £3,500 - research, evaluation and site development
+- £500 - electronics components for build-phase projects
+- £1000 - (after completion of main project) further development and testing of newly created designs + publication in a peer-reviewed journal.
