@@ -22,18 +22,22 @@ Stephanie Smith-Unna [SSU] <stephanie.unna@slcu.cam.ac.uk> (Locke Lab - SLCU)
   - systems biology
   - open source scientific software (see https://github.com/Treblesteph)
   - technical documentation
+
 Richard Smith-Unna [RSU] <rds45@cam.ac.uk> (Hibberd Lab - Cambridge Plant Sciences)
   - computational biology
   - open source software (see https://github.com/blahah)
   - 3d printing
+
 Ben Ward [BW] <Ben.Ward@tgac.ac.uk> (Plant and Microbial Genomics - TGAC)
   - evolutionary biology
   - open source software (see https://github.com/Ward9250)
   - 3d printing lab hardware
+
 Lawrence Percival-Alwyn [LPA] <Lawrence.Percival-Alwyn@tgac.ac.uk> (Plant and Microbial Genomics - TGAC)
   - molecular biology
   - protocol development
   - 3d printing lab hardware
+
 Neil Pearson [NP] <Neil.Pearson@tgac.ac.uk> (Data Infrastructure & Algorithms - TGAC)
   - scientific software
   - 3d printing lab hardware, including extensive repair of hardware for biology using custom-designed 3d-printed parts in the labs at TGAC
